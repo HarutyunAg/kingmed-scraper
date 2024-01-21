@@ -10,7 +10,7 @@ class Downloader:
 
     def __init__(self, path):
         self.sections = SectionScraper(self.BASE_URL).scrape_sections()
-        self.path = path
+        self.path = os.path.normpath(path)
 
     @staticmethod
     def __process_filename(name: str) -> str:
