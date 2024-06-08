@@ -4,6 +4,9 @@
 
 The Kingmed Case Report Scraper is a web scraping tool designed to retrieve comprehensive medical histories from the [Kingmed website](https://kingmed.info/Istorii-boleznye%C4%AD). These histories encompass both general and birth-related records across various clinical disciplines.
 
+## UML
+![uml](https://github.com/HarutyunAg/kingmed-scraper/assets/106912298/42e85729-0839-45f4-aadf-1489e47cb879)
+
 ## Getting Started
 
 ### Installation and Usage
